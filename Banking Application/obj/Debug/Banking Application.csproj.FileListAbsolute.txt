@@ -1,0 +1,7 @@
+C:\repos\C#\Banking Solution\Banking Application\bin\Debug\Banking Application.exe.config
+C:\repos\C#\Banking Solution\Banking Application\bin\Debug\Banking Application.exe
+C:\repos\C#\Banking Solution\Banking Application\bin\Debug\Banking Application.pdb
+C:\repos\C#\Banking Solution\Banking Application\obj\Debug\Banking Application.csprojResolveAssemblyReference.cache
+C:\repos\C#\Banking Solution\Banking Application\obj\Debug\Banking Application.csproj.CoreCompileInputs.cache
+C:\repos\C#\Banking Solution\Banking Application\obj\Debug\Banking Application.exe
+C:\repos\C#\Banking Solution\Banking Application\obj\Debug\Banking Application.pdb
